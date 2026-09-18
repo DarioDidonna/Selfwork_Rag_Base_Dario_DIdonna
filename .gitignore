@@ -19,3 +19,4 @@ chroma/
 *.sqlite3
 .vscode/
 !.vscode/settings.json
+*.ipynb
