@@ -1,0 +1,26 @@
+=== CANDIDATO 1: MARIO ROSSI ===
+Ruolo: Full Stack Web Developer
+Esperienza: 5 anni in sviluppo software web.
+Competenze Tecniche: PHP, Laravel, HTML5, CSS3, Bootstrap 5, JavaScript (Vanilla), MySQL.
+Esperienze lavorative:
+- Lead Developer presso Tech Solutions (2023 - Presente): Sviluppo di piattaforme e-commerce complesse in Laravel e gestione di database MySQL.
+- Web Developer presso WebAgency (2021 - 2023): Creazione di interfacce utente responsive in Bootstrap e gestione REST API.
+Lingue: Italiano (Madrelingua), Inglese (B2).
+
+=== CANDIDATO 2: ELENA BIANCHI ===
+Ruolo: Data Scientist & AI Specialist
+Esperienza: 3 anni nel settore Machine Learning e Data Analysis.
+Competenze Tecniche: Python, Jupyter Lab, Pandas, NumPy, Scikit-Learn, PyTorch, OpenAI API, ChromaDB, RAG architecture.
+Esperienze lavorative:
+- Data Scientist presso AI Lab (2024 - Presente): Implementazione di sistemi RAG basati su Vector Database e LLM per l'analisi documentale.
+- Junior Data Analyst presso DataCorp (2023 - 2024): Pulizia dati e creazione di modelli predittivi in Python.
+Lingue: Italiano (Madrelingua), Inglese (C1).
+
+=== CANDIDATO 3: GIUSEPPE VERDI ===
+Ruolo: HR Specialist & Recruiter
+Esperienza: 6 anni nella gestione delle risorse umane e recruiting IT.
+Competenze Tecniche: Talent Acquisition, Screening CV, gestione colloqui, software ATS, gestione contrattualistica.
+Esperienze lavorative:
+- HR Manager presso PeopleCorp (2022 - Presente): Gestione dell'intero processo di selezione del personale tecnico e onboarding.
+- IT Recruiter presso HeadHunter Agency (2020 - 2022): Ricerca e selezione di sviluppatori web e profili ambito dati.
+Lingue: Italiano (Madrelingua), Inglese (B2).
