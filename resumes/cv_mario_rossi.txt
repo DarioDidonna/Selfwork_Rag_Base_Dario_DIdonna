@@ -1,0 +1,17 @@
+Mario Rossi
+Email: mario.rossi@email.com | Tel: +39 333 1234567
+
+ESPERIENZA PROFESSIONALE
+Senior Python & AI Developer | Tech Solutions S.r.l. (2021 - Presente)
+- Sviluppo di architetture RAG ed integrazione di LLM (OpenAI, Anthropic).
+- Gestione di Vector Database (ChromaDB, Pinecone).
+- Progettazione API backend con FastAPI e Flask.
+
+Software Engineer | DevCorp (2018 - 2021)
+- Sviluppo applicazioni web in Python e Django.
+- Gestione database PostgreSQL e MongoDB.
+
+COMPETENZE
+- Linguaggi: Python, SQL, JavaScript
+- Framework/Tools: FastAPI, Django, Chainlit, LangChain, Docker, Git
+- Lingue: Italiano (Madrelingua), Inglese (A2)

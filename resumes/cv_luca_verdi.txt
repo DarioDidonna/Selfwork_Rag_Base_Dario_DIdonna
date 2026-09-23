@@ -1,0 +1,16 @@
+Luca Verdi
+Email: luca.verdi@email.com | Tel: +39 328 5554433
+
+ESPERIENZA PROFESSIONALE
+Frontend Developer | Web Agency Digital (2022 - Presente)
+- Sviluppo interfacce web reattive con React, Next.js e Tailwind CSS.
+- Ottimizzazione prestazioni web e accessibilità (WCAG).
+- Integrazione API REST e GraphQL.
+
+Junior Web Developer | StartUp Software (2020 - 2022)
+- Creazione landing page e siti e-commerce in HTML, CSS, JavaScript e Bootstrap.
+
+COMPETENZE
+- Frontend: React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind
+- Tools: Figma, Git, Webpack, Vite
+- Lingue: Italiano (Madrelingua), Inglese (B2)
